@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+}
+
+.content {
+    max-width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Yesteryear", cursive;
+    font-weight: 100;
+    font-size: 60px;
+}
+
+p {
+    font-family: "Red Hat Text", sans-serif;
+}
+
+img {
+    max-width: 400px;
+}
